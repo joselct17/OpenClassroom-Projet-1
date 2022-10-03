@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*********************/
+/*STYLES GENEREAUX*/
+/*********************/
+h1, h3, h4 {
+    color: white;
+}
+h4 {
+    font-weight: normal;
+}
+
+p, ul {
+    color: #003768 ;
+}
+
+span {
+    background-color: #0ceca2;
+    color: #003768
+}
+
+a {
+    text-decoration: none;
+}
+
+/**************/
+/*HEADER**/
+/*************/
+
+header div {
+    background-color: #7452eb ;
+}
+
+ #profil {
+    border-radius: 50%;
+}
+
+/***************/
+/*SECTION*/
+/***************/
+
+section {
+    margin: 10px;
+}
+
+section img {
+    width: 100%;
+}
+
+/*************/
+/*FOOTER*/
+/*************/
+
+footer div {
+    background-color: #003768;
+}
+
+footer img {
+    width: 20%;
+}
+
